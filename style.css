@@ -11,3 +11,9 @@ table{
 table:hover{
     transform: scale(3.1);
 }
+
+caption{
+    color: rgb(0, 68, 255);
+    margin-bottom: 20px;
+    font-size: 30px;
+}
